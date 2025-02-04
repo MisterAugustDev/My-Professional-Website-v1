@@ -6,5 +6,9 @@ I recently started my front-end studies and will take a little while
 to finish this project. Any visitor can come and check out my progress
 every month. My dev teacher is Gustavo Guanabara and his You Tube channel
 is "Curso em Vídeo". All classes in Portuguese.
-Thanks for reading. Your dearest weirdo Mister August.
+Thanks for reading. Your dear weirdo Mister August.
 January 31st, 2025.
+
+
+<!--....UPDATES....-->
+<!--FEBRUADY 3dr - Planning the website's structure-->
